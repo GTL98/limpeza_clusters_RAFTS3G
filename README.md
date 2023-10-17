@@ -15,7 +15,7 @@ O algoritomo presente nesse repositório serve para obter as proteínas probiót
 ## Passo 3: Utilizar o RAFTS3G
 
 ## Passo 4: Obter os clusters
-  - O arquivo `Clustered_report.tab` para `00_Clustered_report.tab`. Utilizar o arquivo **`separar_clusters.py`**
+  - Renomear o arquivo `Clustered_report.tab` para `00_Clustered_report.tab`. Utilizar o arquivo **`separar_clusters.py`**
 
 ## Passo 5: Ober os cluster e proteínas
   - Utiluzar o arquivo **`clusters_csv.py`**
