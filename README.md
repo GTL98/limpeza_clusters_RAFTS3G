@@ -1,7 +1,7 @@
 # Limpeza Clusters RAFTS3G
 
 ---
-O algoritomo presente nesse repositório serve para obter as proteínas probióticas obtidas da clusterização feita pela ferramenta [RAFTS3G](https://sourceforge.net/projects/rafts-g/).
+O algoritomo presente nesse repositório serve para obter as proteínas probióticas obtidas da clusterização feita pela ferramenta [RAFTS3G](https://sourceforge.net/projects/rafts-g/). Os arquivos com os proteomas das bactérias e as proteínas probióticas podem ser baixados nesse [link](https://drive.google.com/file/d/1IkjAikB7Ma-8qncW9oiVmH8GmJADYmiv/view?usp=sharing)
 
 ## Passo 1: Instalar as bibliotecas
   - As bibliotecas utilizadas estão presentes no arquivo **requirements.txt**.
