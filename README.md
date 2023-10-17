@@ -22,3 +22,8 @@ O algoritomo presente nesse repositório serve para obter as proteínas probiót
 
 ## Passo 6: Encontrar os cluster as proteínas probióticas
   - Utilizar o arquivo `encontrar_clusters.py`
+
+## Passo 7: Limpar os dados probióticos
+  - Obter somente o cluster, proteína probiótica e bactéria. Utilizar o arquivo `obter_clusters.py`
+
+## Passo 8: 
