@@ -2,7 +2,7 @@ import os
 
 # --- Obter o primeiro documento que contém os clusters e a quantidade de sequências --- #
 # --- (colocar "00_" no começo do nome do documento) --- #
-caminho = '../RAFTS3G/RAFTS3GClusters'
+caminho = ''
 for arquivo in os.listdir(caminho):
     report = arquivo
     break
