@@ -13,7 +13,7 @@ with open('./arquivo_temp_proteinas.csv') as arquivo:
     lista_clusters.remove('cluster')
 
 # --- Pasta de onde estão os clusters --- #
-caminho = '../RAFTS3GClusters'
+caminho = ''
 
 # --- Iterar sobre cada cluster que possui pelo menos 1 proteína probiótica --- #
 lista_registros = []
