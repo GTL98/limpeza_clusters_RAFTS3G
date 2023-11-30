@@ -34,7 +34,7 @@ def clusters_csv():
                 bacteria = cabecalho[1][:-1]
                 lista_bacterias.append(bacteria)
 
-            # --- Criar dicionários para armazenar as proteínas, quantidade e as bactérias que possuem essas proteínas
+            # --- Criar dicionários para armazenar as proteínas, quantidade e as bactérias que possuem essas proteínas --- #
             dic_proteina = {i: lista_proteinas.count(i) for i in lista_proteinas}
             dic_bacterias = {bacteria: proteina for bacteria, proteina in zip(lista_bacterias, lista_proteinas)}
 
