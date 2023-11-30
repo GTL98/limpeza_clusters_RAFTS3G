@@ -11,7 +11,7 @@ def clusters_csv():
         csv.write('cluster,proteina,bacteria,quantidade')
 
     # --- Pasta com os arquivos dos clusters --- #
-    caminho = '../RAFTS3G/RAFTS3GClusters'
+    caminho = ''
 
     # --- Ler o arquivo que contém os cluster e a quantidade de sequências --- #
     with open('./cluster.tab', 'r') as tab:
