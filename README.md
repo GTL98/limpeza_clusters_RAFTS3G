@@ -20,7 +20,7 @@ O algoritomo presente nesse repositório serve para obter as proteínas probiót
 ## Passo 5: Obter os cluster e proteínas
   - Utiluzar o arquivo **`clusters_csv.py`**
 
-## Passo 6: Encontrar os cluster as proteínas probióticas
+## Passo 6: Encontrar os cluster e as proteínas probióticas
   - Utilizar o arquivo **`encontrar_clusters.py`**
 
 ## Passo 7: Limpar os dados probióticos
